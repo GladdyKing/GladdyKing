@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=100&lines=👋+Hi,+I'm+Davison+Gladson;⚡+A.K.A+Gladdy+King;🤖+Bot+%26+Automation+Developer;💻+Node.js+%7C+Python+%7C+Android;🚀+Coding+from+my+phone" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=100&lines=%F0%9F%91%8B+Hi%2C+I%27m+Davison+Gladson;%E2%9A%A1+A.K.A+Gladdy+King;%F0%9F%A4%96+Bot+%26+Automation+Developer;%F0%9F%92%BB+Node.js+%7C+Python+%7C+Android;%F0%9F%9A%80+Coding+from+my+phone" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,8 +15,10 @@
 
 <p align="center">
   <a href="https://wa.me/263713651034"><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://m.youtube.com/@GLADDYTECH"><img src="https://img.shields.io/badge/YouTube-GLADDYTECH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://youtube.com/@GLADDYTECH"><img src="https://img.shields.io/badge/YouTube-GLADDYTECH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://whatsapp.com/channel/0029VbAhyS28aKvMWmEiHt1M"><img src="https://img.shields.io/badge/WhatsApp-Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" /></a>
+  <a href="https://www.linkedin.com/in/davison-gladson-a98a96443"><img src="https://img.shields.io/badge/LinkedIn-Davison%20Gladson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/gladdyking"><img src="https://img.shields.io/badge/Telegram-@gladdyking-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <p align="center">
@@ -191,8 +193,10 @@ I'm happy to work with other developers. You're welcome to:
 
 ## 📺 Community
 
-- 🎥 **YouTube:** [GLADDYTECH](https://m.youtube.com/@GLADDYTECH) for tech content and tutorials
+- 🎥 **YouTube:** [GLADDYTECH](https://youtube.com/@GLADDYTECH) for tech content and tutorials
 - 📢 **WhatsApp channel:** [Join here](https://whatsapp.com/channel/0029VbAhyS28aKvMWmEiHt1M) for updates on my projects
+- 💼 **LinkedIn:** [Davison Gladson](https://www.linkedin.com/in/davison-gladson-a98a96443)
+- ✈️ **Telegram:** [@gladdyking](https://t.me/gladdyking)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -205,12 +209,20 @@ I'm happy to work with other developers. You're welcome to:
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
-  <a href="https://m.youtube.com/@GLADDYTECH" target="_blank">
+  <a href="https://youtube.com/@GLADDYTECH" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   &nbsp;
   <a href="https://whatsapp.com/channel/0029VbAhyS28aKvMWmEiHt1M" target="_blank">
     <img src="https://img.shields.io/badge/Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/davison-gladson-a98a96443" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/gladdyking" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
